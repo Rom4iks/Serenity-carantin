@@ -1,0 +1,13 @@
+target
+reports
+target/
+.project
+.classpath
+.settings
+*.log
+gensrc
+bin/
+.pydevproject
+.idea
+serenity_qa_framework.*
+*py[cod]
